@@ -1,0 +1,9 @@
+# Code of Conduct / 行为准则
+
+## English
+
+Participants are expected to be respectful, constructive, inclusive, and evidence-oriented. Do not post patient-level data, identifiable information, credentials, or copyrighted textbook scans. Report unacceptable behavior privately to the repository maintainer.
+
+## 中文
+
+参与者应保持尊重、建设性、包容和证据导向。不得提交患者级数据、可识别信息、凭据或受版权保护的教材扫描件。若发现不当行为，请私下联系仓库维护者。

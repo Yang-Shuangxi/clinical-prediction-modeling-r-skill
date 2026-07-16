@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Clinical Prediction Modeling in R Codex Skill"
+message: "If this skill supports your work, please cite the repository and its release."
+type: software
+authors:
+  - given-names: Yang
+    family-names: Kaikai
+    affiliation: "GMU"
+repository-code: "https://github.com/yangkaikai/clinical-prediction-modeling-r-skill"
+license: MIT
+version: 1.0.0
+date-released: 2026-07-15
