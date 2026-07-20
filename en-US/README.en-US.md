@@ -1,6 +1,6 @@
 # Clinical Prediction Modeling in R Codex Skill: Installation and Usage Guide
 
-[简体中文版本](README.zh-CN.md)
+[简体中文版本] Please turn to the Chinese edition folder.
 
 A bilingual Codex skill for research-grade, reproducible clinical prediction modeling in R. It covers data contracts, typed data import and checks, Logistic regression, Cox proportional-hazards models, competing risks, calibration, discrimination, clinical utility, and transparent reporting.
 
