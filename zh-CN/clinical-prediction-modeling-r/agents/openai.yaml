@@ -1,4 +1,0 @@
-interface:
-  display_name: "R 临床预测模型"
-  short_description: "在 R 中构建和验证可复现的临床风险模型"
-  default_prompt: "使用 $clinical-prediction-modeling-r，在 R 中构建并验证临床预测模型。"
