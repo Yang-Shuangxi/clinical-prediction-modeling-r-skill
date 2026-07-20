@@ -1,6 +1,6 @@
 # R 临床预测模型 Codex Skill：安装与使用指南
 
-[English version](README.en-US.md)
+[English version] 见英文版文件夹或主页仓库README
 
 一个面向医学研究的双语 Codex skill，用于在 R 中构建、验证和报告可复现的临床预测模型。它覆盖数据契约、数据导入与类型检查、Logistic 回归、Cox 比例风险模型、竞争风险、校准、判别、临床效用以及透明、可复核的结果报告。
 
