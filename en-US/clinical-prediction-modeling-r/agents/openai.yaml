@@ -1,4 +1,0 @@
-interface:
-  display_name: "Clinical Prediction Models in R"
-  short_description: "Build and validate reproducible clinical risk models in R"
-  default_prompt: "Use $clinical-prediction-modeling-r to build and validate a clinical prediction model in R."
